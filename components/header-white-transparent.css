@@ -1,0 +1,46 @@
+.header\ white\ transparent-container {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: center;
+}
+.header\ white\ transparent-navlink {
+  color: var(--dl-color-gray-black);
+  margin-top: 0px;
+  margin-right: var(--dl-space-space-oneandhalfunits);
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.header\ white\ transparent-navlink1 {
+  color: var(--dl-color-gray-black);
+  margin-left: 0;
+  margin-right: var(--dl-space-space-oneandhalfunits);
+  text-decoration: none;
+}
+.header\ white\ transparent-navlink2 {
+  display: contents;
+}
+.header\ white\ transparent-image {
+  width: var(--dl-size-size-small);
+  object-fit: cover;
+  text-decoration: none;
+}
+.header\ white\ transparent-navlink3 {
+  color: #000000;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: 0;
+  text-decoration: none;
+}
+.header\ white\ transparent-navlink4 {
+  color: var(--dl-color-gray-black);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: 0;
+  text-decoration: none;
+}
+
+
+

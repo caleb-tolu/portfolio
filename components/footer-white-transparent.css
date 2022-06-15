@@ -1,0 +1,27 @@
+.footer\ white\ transparent-container {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-end;
+}
+.footer\ white\ transparent-navlink {
+  display: contents;
+}
+.footer\ white\ transparent-image {
+  width: var(--dl-size-size-small);
+  object-fit: cover;
+  text-decoration: none;
+}
+.footer\ white\ transparent-text {
+  color: var(--dl-color-gray-black);
+  font-size: 12px;
+  margin-top: var(--dl-space-space-unit);
+  letter-spacing: 0.2rem;
+}
+

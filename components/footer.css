@@ -1,0 +1,27 @@
+.footer-container {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-end;
+  background-image: linear-gradient(to bottom, #1c236e,#000000);
+}
+.footer-navlink {
+  display: contents;
+}
+.footer-image {
+  width: var(--dl-size-size-small);
+  object-fit: cover;
+  text-decoration: none;
+}
+.footer-text {
+  color: #ffffff;
+  font-size: 12px;
+  margin-top: var(--dl-space-space-unit);
+  letter-spacing: 0.2rem;
+}

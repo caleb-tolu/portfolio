@@ -1,0 +1,92 @@
+.social-iconswhite-social-icons {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  position: relative;
+  max-width: 300px;
+  align-items: center;
+  justify-content: space-around;
+}
+.social-iconswhite-link {
+  display: contents;
+}
+.social-iconswhite-icon {
+  width: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+.social-iconswhite-link1 {
+  display: contents;
+}
+.social-iconswhite-icon02 {
+  width: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+.social-iconswhite-link2 {
+  display: contents;
+}
+.social-iconswhite-icon06 {
+  width: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+.social-iconswhite-link3 {
+  display: contents;
+}
+.social-iconswhite-icon08 {
+  width: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+
+
+@media(max-width: 767px) {
+  .social-iconswhite-social-icons {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .social-iconswhite-social-icons {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+}
+
+.footer\ with\ social\ icon\ light\ green-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.footer\ with\ social\ icon\ light\ green-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-end;
+  background-color: #0E484D;
+}
+.footer\ with\ social\ icon\ light\ green-navlink {
+  display: contents;
+}
+.footer\ with\ social\ icon\ light\ green-image {
+  width: var(--dl-size-size-small);
+  object-fit: cover;
+  text-decoration: none;
+}
+.footer\ with\ social\ icon\ light\ green-text {
+  color: #ffffff;
+  font-size: 12px;
+  margin-top: var(--dl-space-space-unit);
+  letter-spacing: 0.2rem;
+}
+

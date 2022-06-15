@@ -1,0 +1,967 @@
+.footer-with-social-icons-black-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer-with-social-icons-black-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  min-height: 150px;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-end;
+  background-color: #000000;
+}
+.footer-with-social-icons-black-social-icons {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  position: relative;
+  max-width: 300px;
+  align-items: center;
+  justify-content: space-around;
+}
+.footer-with-social-icons-black-link {
+  display: contents;
+}
+.footer-with-social-icons-black-icon {
+  width: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+.footer-with-social-icons-black-link1 {
+  display: contents;
+}
+.footer-with-social-icons-black-icon02 {
+  width: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+.footer-with-social-icons-black-link2 {
+  display: contents;
+}
+.footer-with-social-icons-black-icon06 {
+  width: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+.footer-with-social-icons-black-link3 {
+  display: contents;
+}
+.footer-with-social-icons-black-icon08 {
+  width: 24px;
+  height: 24px;
+  text-decoration: none;
+}
+.footer-with-social-icons-black-navlink {
+  display: contents;
+}
+.footer-with-social-icons-black-image {
+  width: var(--dl-size-size-small);
+  object-fit: cover;
+  text-decoration: none;
+}
+.footer-with-social-icons-black-text {
+  color: #ffffff;
+  font-size: 12px;
+  margin-top: var(--dl-space-space-unit);
+  letter-spacing: 0.2rem;
+}
+
+@media(max-width: 767px) {
+  .footer-with-social-icons-black-social-icons {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .footer-with-social-icons-black-social-icons {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+}
+
+.leovegas-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.leovegas-main-section {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  min-height: 500px;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0) 0.00%,rgb(0, 0, 0) 100.00%),url("/public/playground_assets/6%205-1500w.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.leovegas-text {
+  color: var(--dl-color-gray-white);
+  font-size: 3rem;
+  max-width: 900px;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  line-height: 5rem;
+  text-shadow: -.5px -.5px 0 #999, .5px -.5px 0 #999, -.5px .5px 0 #999, .5px .5px 0 #999;;
+  margin-bottom: var(--dl-space-space-twounits);
+  outline-color: var(--dl-color-gray-black);
+  outline-width: var(--dl-size-size-xsmall);
+}
+.leovegas-text02 {
+  text-decoration: underline;
+}
+.leovegas-container01 {
+  top: 0;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: center;
+}
+.leovegas-navlink {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-right: var(--dl-space-space-oneandhalfunits);
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.leovegas-navlink1 {
+  color: #ffffff;
+  margin-left: 0;
+  margin-right: var(--dl-space-space-oneandhalfunits);
+  text-decoration: none;
+}
+.leovegas-navlink2 {
+  display: contents;
+}
+.leovegas-image {
+  width: var(--dl-size-size-small);
+  object-fit: cover;
+  text-decoration: none;
+}
+.leovegas-navlink3 {
+  color: #ffffff;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: 0;
+  text-decoration: none;
+}
+.leovegas-navlink04 {
+  color: #ffffff;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: 0;
+}
+.leovegas-design-review {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container02 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-text05 {
+  font-size: 3rem;
+}
+.leovegas-container03 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text06 {
+  font-size: 1.8rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.leovegas-text07 {
+  color: rgba(0, 0, 0, 0.75);
+  font-size: 16px;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  text-align: justify;
+  font-family: Inter;
+  line-height: 25px;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.leovegas-container04 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text13 {
+  font-size: 1.8rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.leovegas-text14 {
+  color: rgba(0, 0, 0, 0.75);
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  text-align: justify;
+  font-family: Inter;
+  line-height: 25px;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.leovegas-signup-flow {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container05 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-text26 {
+  font-size: 3rem;
+}
+.leovegas-container06 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text27 {
+  font-size: 1.8rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.leovegas-text28 {
+  color: rgba(0, 0, 0, 0.75);
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  text-align: justify;
+  font-family: Inter;
+  line-height: 25px;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.leovegas-text38 {
+  text-decoration: underline;
+}
+.leovegas-flow-chart {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container07 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  margin-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-image1 {
+  width: 100%;
+  object-fit: contain;
+}
+.leovegas-field-validation {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container08 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-text44 {
+  font-size: 3rem;
+}
+.leovegas-container09 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text45 {
+  font-size: 1.8rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.leovegas-hi-fi-design {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container10 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  margin-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-image2 {
+  width: 100%;
+  object-fit: contain;
+}
+.leovegas-field-validation1 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container11 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-container12 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text46 {
+  font-size: 1.8rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.leovegas-hi-fi-design1 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container13 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  margin-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-image3 {
+  width: 100%;
+  object-fit: contain;
+}
+.leovegas-design-approach {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container14 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-text47 {
+  font-size: 3rem;
+}
+.leovegas-container15 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text48 {
+  color: rgba(0, 0, 0, 0.75);
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  text-align: justify;
+  font-family: Inter;
+  line-height: 25px;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.leovegas-image4 {
+  width: 100%;
+  object-fit: contain;
+}
+.leovegas-information-to-perform-better-task {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container16 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-text50 {
+  font-size: 3rem;
+}
+.leovegas-container17 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text51 {
+  font-size: 1rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.leovegas-text53 {
+  font-size: 1rem;
+  margin-top: 0px;
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.leovegas-text55 {
+  font-size: 1rem;
+  margin-top: 0px;
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.leovegas-container18 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text56 {
+  font-size: 1.8rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.leovegas-text57 {
+  color: rgba(0, 0, 0, 0.75);
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  min-height: var(--dl-size-size-xsmall);
+  text-align: justify;
+  font-family: Inter;
+  line-height: 25px;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.leovegas-text58 {
+  font-family: Inter;
+}
+.leovegas-text62 {
+  font-family: Inter;
+}
+.leovegas-k-p-is-to-track {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leovegas-container19 {
+  width: 100%;
+  display: flex;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.leovegas-text63 {
+  font-size: 3rem;
+}
+.leovegas-container20 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text64 {
+  font-size: 1.8rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.leovegas-text65 {
+  color: rgba(0, 0, 0, 0.75);
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  text-align: justify;
+  font-family: Inter;
+  line-height: 25px;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.leovegas-container21 {
+  display: flex;
+  flex-direction: column;
+}
+.leovegas-text67 {
+  font-size: 1.8rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.leovegas-picture-gallery {
+  width: 100%;
+  display: flex;
+  max-width: 100vw;
+  align-items: center;
+  flex-direction: column;
+}
+.leovegas-image5 {
+  width: 100%;
+  object-fit: contain;
+}
+.leovegas-image-2 {
+  width: 100%;
+  display: flex;
+  max-width: 100vw;
+  align-items: center;
+  flex-direction: column;
+}
+.leovegas-image6 {
+  width: 100%;
+  object-fit: contain;
+}
+.leovegas-image-21 {
+  width: 100%;
+  display: flex;
+  max-width: 100vw;
+  align-items: center;
+  flex-direction: column;
+}
+.leovegas-image7 {
+  width: 100%;
+  object-fit: contain;
+}
+@media(max-width: 991px) {
+  .leovegas-design-review {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container02 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-text05 {
+    text-align: center;
+  }
+  .leovegas-text06 {
+    text-align: center;
+  }
+  .leovegas-text07 {
+    text-align: justify;
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-text13 {
+    text-align: center;
+  }
+  .leovegas-text14 {
+    text-align: justify;
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-signup-flow {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container05 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-text26 {
+    text-align: center;
+  }
+  .leovegas-text27 {
+    text-align: center;
+  }
+  .leovegas-text28 {
+    text-align: justify;
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-flow-chart {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container07 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-field-validation {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container08 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-text44 {
+    text-align: center;
+  }
+  .leovegas-text45 {
+    text-align: center;
+  }
+  .leovegas-hi-fi-design {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container10 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-field-validation1 {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container11 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-text46 {
+    text-align: center;
+  }
+  .leovegas-hi-fi-design1 {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container13 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-design-approach {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container14 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-text47 {
+    text-align: center;
+  }
+  .leovegas-text48 {
+    text-align: justify;
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-information-to-perform-better-task {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container16 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-text50 {
+    text-align: center;
+  }
+  .leovegas-container17 {
+    width: 100%;
+  }
+  .leovegas-text51 {
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-text53 {
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-text55 {
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-text56 {
+    text-align: center;
+  }
+  .leovegas-text57 {
+    text-align: justify;
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-k-p-is-to-track {
+    padding: var(--dl-space-space-threeunits);
+    flex-direction: column;
+  }
+  .leovegas-container19 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-text63 {
+    text-align: center;
+  }
+  .leovegas-text64 {
+    text-align: center;
+  }
+  .leovegas-text65 {
+    text-align: justify;
+    padding-left: var(--dl-space-space-fourunits);
+  }
+  .leovegas-text67 {
+    text-align: center;
+  }
+}
+@media(max-width: 767px) {
+  .leovegas-main-section {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-design-review {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-text05 {
+    font-size: 2rem;
+  }
+  .leovegas-text06 {
+    font-size: 1.2rem;
+  }
+  .leovegas-text13 {
+    font-size: 1.2rem;
+  }
+  .leovegas-signup-flow {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-text26 {
+    font-size: 2rem;
+  }
+  .leovegas-text27 {
+    font-size: 1.2rem;
+  }
+  .leovegas-flow-chart {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-field-validation {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-text44 {
+    font-size: 2rem;
+  }
+  .leovegas-text45 {
+    font-size: 1.2rem;
+  }
+  .leovegas-hi-fi-design {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-field-validation1 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-text46 {
+    font-size: 1.2rem;
+  }
+  .leovegas-hi-fi-design1 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-design-approach {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-text47 {
+    font-size: 2rem;
+  }
+  .leovegas-information-to-perform-better-task {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-text50 {
+    font-size: 2rem;
+  }
+  .leovegas-text56 {
+    font-size: 1.2rem;
+  }
+  .leovegas-k-p-is-to-track {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .leovegas-text63 {
+    font-size: 2rem;
+  }
+  .leovegas-text64 {
+    font-size: 1.2rem;
+  }
+  .leovegas-text67 {
+    font-size: 1.2rem;
+  }
+}
+@media(max-width: 479px) {
+  .leovegas-main-section {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-text {
+    font-size: 2.5rem;
+  }
+  .leovegas-design-review {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container02 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-text07 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .leovegas-text14 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .leovegas-signup-flow {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container05 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-text28 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .leovegas-flow-chart {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container07 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-field-validation {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container08 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-hi-fi-design {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container10 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-field-validation1 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container11 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-hi-fi-design1 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container13 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-design-approach {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container14 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-text48 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .leovegas-information-to-perform-better-task {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container16 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-text51 {
+    padding-left: var(--dl-space-space-unit);
+  }
+  .leovegas-text53 {
+    padding-left: 16px;
+  }
+  .leovegas-text55 {
+    padding-left: 16px;
+  }
+  .leovegas-text57 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .leovegas-k-p-is-to-track {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .leovegas-container19 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .leovegas-text65 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+}
