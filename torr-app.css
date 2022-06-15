@@ -147,19 +147,18 @@
   align-items: center;
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-twounits);
-  justify-content: center;
+  justify-content: space-around;
+  max-width: 450px;
 }
 .torr-app-navlink {
   color: #ffffff;
   margin-top: 0px;
-  margin-right: var(--dl-space-space-oneandhalfunits);
   margin-bottom: 0px;
   text-decoration: none;
 }
 .torr-app-navlink1 {
   color: #ffffff;
   margin-left: 0;
-  margin-right: var(--dl-space-space-oneandhalfunits);
   text-decoration: none;
 }
 .torr-app-navlink2 {
@@ -172,13 +171,11 @@
 }
 .torr-app-navlink3 {
   color: #ffffff;
-  margin-left: var(--dl-space-space-oneandhalfunits);
   margin-right: 0;
   text-decoration: none;
 }
 .torr-app-text03 {
   color: #ffffff;
-  margin-left: var(--dl-space-space-oneandhalfunits);
   margin-right: 0;
 }
 .torr-app-project-overview {
@@ -1039,8 +1036,8 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .torr-app-container03 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .torr-app-persona {
     padding-top: var(--dl-space-space-twounits);
@@ -1052,8 +1049,8 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .torr-app-container05 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .torr-app-user-flow {
     padding-top: var(--dl-space-space-twounits);
@@ -1065,8 +1062,8 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .torr-app-container07 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .torr-app-design-process {
     padding-top: var(--dl-space-space-twounits);
@@ -1078,8 +1075,8 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .torr-app-container09 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .torr-app-user-flow1 {
     padding-top: var(--dl-space-space-twounits);
@@ -1091,9 +1088,15 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .torr-app-container11 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
+
+  .torr-app-container12 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    padding-right: var(--dl-space-space-oneandhalfunits);
+  }
+
   .torr-app-container14 {
     margin-bottom: var(--dl-space-space-unit);
   }

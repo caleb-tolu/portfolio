@@ -136,19 +136,18 @@
   align-items: center;
   padding-top: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-twounits);
-  justify-content: center;
+  justify-content: space-around;
+  max-width: 450px;
 }
 .leovegas-navlink {
   color: #ffffff;
   margin-top: 0px;
-  margin-right: var(--dl-space-space-oneandhalfunits);
   margin-bottom: 0px;
   text-decoration: none;
 }
 .leovegas-navlink1 {
   color: #ffffff;
   margin-left: 0;
-  margin-right: var(--dl-space-space-oneandhalfunits);
   text-decoration: none;
 }
 .leovegas-navlink2 {
@@ -161,13 +160,11 @@
 }
 .leovegas-navlink3 {
   color: #ffffff;
-  margin-left: var(--dl-space-space-oneandhalfunits);
   margin-right: 0;
   text-decoration: none;
 }
 .leovegas-navlink04 {
   color: #ffffff;
-  margin-left: var(--dl-space-space-oneandhalfunits);
   margin-right: 0;
 }
 .leovegas-design-review {
@@ -839,7 +836,8 @@
     padding-bottom: var(--dl-space-space-twounits);
   }
   .leovegas-text {
-    font-size: 2.5rem;
+    font-size: 2rem;
+    line-height: 4rem;
   }
   .leovegas-design-review {
     padding-top: var(--dl-space-space-twounits);
@@ -851,12 +849,12 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .leovegas-text07 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .leovegas-text14 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .leovegas-signup-flow {
     padding-top: var(--dl-space-space-twounits);
@@ -868,8 +866,8 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .leovegas-text28 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .leovegas-flow-chart {
     padding-top: var(--dl-space-space-twounits);
@@ -926,8 +924,8 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .leovegas-text48 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .leovegas-information-to-perform-better-task {
     padding-top: var(--dl-space-space-twounits);
@@ -939,17 +937,17 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .leovegas-text51 {
-    padding-left: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
   }
   .leovegas-text53 {
-    padding-left: 16px;
+    padding-left: var(--dl-space-space-halfunit);
   }
   .leovegas-text55 {
-    padding-left: 16px;
+    padding-left: var(--dl-space-space-halfunit);
   }
   .leovegas-text57 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
   .leovegas-k-p-is-to-track {
     padding-top: var(--dl-space-space-twounits);
@@ -961,7 +959,7 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .leovegas-text65 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
   }
 }
