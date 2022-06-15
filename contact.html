@@ -163,19 +163,24 @@
               </span>
             </span>
           </span>
-          <input type="text" id="name" name="name" autofocus placeholder="Your name" class="contact-textinput input" />
-          <input type="email" id="email" name="email" placeholder="Email address" class="contact-textinput1 input" />
-          <input type="text" id="subject" name="subject" placeholder="Subject" class="contact-textinput2 input" />
-          <textarea id="message" type="message" placeholder="Write your message"
-            class="contact-textarea textarea"></textarea>
-          <button class="contact-button button">
-            <span class="contact-text4">SEND</span>
-            <svg viewBox="0 0 1024 1024" class="contact-icon">
-              <path
-                d="M481.835 243.499l225.835 225.835h-494.336c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667h494.336l-225.835 225.835c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l298.667-298.667c3.925-3.925 7.083-8.619 9.259-13.824 4.309-10.453 4.309-22.229 0-32.683-2.091-5.035-5.163-9.728-9.259-13.824l-298.667-298.667c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z">
-              </path>
-            </svg>
-          </button>
+
+          <form id="formkeep" action="https://formkeep.com/f/1a0276075dbb" accept-charset="UTF-8"
+            enctype="multipart/form-data" method="POST" style="display: flex; flex-direction:column; width:100%">
+            <input type="text" id="name" name="name" autofocus placeholder="Your name"
+              class="contact-textinput input" />
+            <input type="email" id="email" name="email" placeholder="Email address" class="contact-textinput1 input" />
+            <input type="text" id="subject" name="subject" placeholder="Subject" class="contact-textinput2 input" />
+            <textarea id="message" type="message" placeholder="Write your message"
+              class="contact-textarea textarea"></textarea>
+            <button class="contact-button button" type="submit">
+              <span class="contact-text4">SEND</span>
+              <svg viewBox="0 0 1024 1024" class="contact-icon">
+                <path
+                  d="M481.835 243.499l225.835 225.835h-494.336c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667h494.336l-225.835 225.835c-16.683 16.683-16.683 43.691 0 60.331s43.691 16.683 60.331 0l298.667-298.667c3.925-3.925 7.083-8.619 9.259-13.824 4.309-10.453 4.309-22.229 0-32.683-2.091-5.035-5.163-9.728-9.259-13.824l-298.667-298.667c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331z">
+                </path>
+              </svg>
+            </button>
+          </form>
         </div>
         <img alt="image"
           src="https://images.unsplash.com/photo-1525498128493-380d1990a112?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDI0fHxtaW5pbWFsaXNtJTIwZ3JlZW58ZW58MHx8fHwxNjI1ODQxMDcw&amp;ixlib=rb-1.2.1&amp;h=1200"
@@ -234,5 +239,18 @@
     </div>
   </div>
 </body>
+
+
+<script>
+  const formkeepEmbed = document.querySelector('#formkeep')
+
+  formkeepEmbed.addEventListener('formkeep:submitting', _event => {
+    console.log('Submitting form...')
+  })
+
+  formkeepEmbed.addEventListener('formkeep:submitted', _event => {
+    console.log('Submitted form...')
+  })
+</script>
 
 </html>
