@@ -478,7 +478,7 @@
     padding-right: var(--dl-space-space-twounits);
   }
   .home-container3 {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
   .home-container4 {
     align-items: center;
@@ -499,7 +499,7 @@
     padding-right: var(--dl-space-space-twounits);
   }
   .home-container5 {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
   .home-container6 {
     align-items: center;
@@ -520,7 +520,7 @@
     padding-right: var(--dl-space-space-twounits);
   }
   .home-container7 {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
   .home-container8 {
     align-items: center;
