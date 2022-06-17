@@ -170,7 +170,7 @@
 .about-text02 {
   margin-top: var(--dl-space-space-twounits);
   min-height: 16px;
-  text-align: justify;
+  text-align: left;
   margin-bottom: var(--dl-space-space-twounits);
 }
 .about-btn-group {

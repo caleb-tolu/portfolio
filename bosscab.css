@@ -177,7 +177,7 @@
 }
 .bosscab-text01 {
   color: rgba(0, 0, 0, 0.75);
-  text-align: justify;
+  text-align: left;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-twounits);
 }
@@ -375,26 +375,26 @@
   color: rgba(0, 0, 0, 0.77);
   padding: 0;
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 700;
   line-height: 12px;
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .bosscab-text24 {
   color: rgba(0, 0, 0, 0.75);
-  text-align: justify;
+  text-align: left;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-unit);
 }
 .bosscab-text29 {
   color: rgba(0, 0, 0, 0.73);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 700;
 }
 .bosscab-text34 {
   color: rgba(0, 0, 0, 0.75);
-  text-align: justify;
+  text-align: left;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -428,7 +428,7 @@
 .bosscab-text42 {
   color: rgba(0, 0, 0, 0.75);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-halfunit);
@@ -436,7 +436,7 @@
 .bosscab-text44 {
   color: rgba(0, 0, 0, 0.75);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-halfunit);
@@ -445,7 +445,7 @@
   color: rgba(0, 0, 0, 0.75);
   width: 100%;
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-halfunit);
@@ -454,7 +454,7 @@
   color: rgba(0, 0, 0, 0.73);
   font-style: normal;
   margin-top: var(--dl-space-space-oneandhalfunits);
-  text-align: justify;
+  text-align: left;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -537,7 +537,7 @@
   font-size: 24px;
   font-style: normal;
   margin-top: var(--dl-space-space-twounits);
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -545,7 +545,7 @@
   color: rgba(0, 0, 0, 0.5);
   font-size: 18px;
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-twounits);
 }
@@ -564,7 +564,7 @@
 .bosscab-text56 {
   color: rgba(0, 0, 0, 0.75);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-family: Poppins;
   font-weight: 400;
   line-height: 25px;
@@ -629,7 +629,7 @@
   font-size: 24px;
   font-style: normal;
   margin-top: var(--dl-space-space-twounits);
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -637,7 +637,7 @@
   color: rgba(0, 0, 0, 0.5);
   font-size: 18px;
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-twounits);
 }
@@ -656,7 +656,7 @@
 .bosscab-text64 {
   color: rgba(0, 0, 0, 0.75);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-family: Poppins;
   font-weight: 400;
   line-height: 25px;
@@ -771,7 +771,7 @@
   font-size: 24px;
   font-style: normal;
   margin-top: var(--dl-space-space-twounits);
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -779,7 +779,7 @@
   color: rgba(0, 0, 0, 0.5);
   font-size: 18px;
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-twounits);
 }
@@ -790,7 +790,7 @@
 .bosscab-text73 {
   color: rgba(0, 0, 0, 0.75);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-family: Poppins;
   font-weight: 400;
   line-height: 25px;
@@ -841,7 +841,7 @@
   font-size: 24px;
   font-style: normal;
   margin-top: var(--dl-space-space-twounits);
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -849,7 +849,7 @@
   color: rgba(0, 0, 0, 0.5);
   font-size: 18px;
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-twounits);
 }
@@ -860,7 +860,7 @@
 .bosscab-text78 {
   color: rgba(0, 0, 0, 0.75);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-family: Poppins;
   font-weight: 400;
   line-height: 25px;
@@ -936,7 +936,7 @@
   font-size: 24px;
   font-style: normal;
   margin-top: var(--dl-space-space-twounits);
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -944,7 +944,7 @@
   color: rgba(0, 0, 0, 0.5);
   font-size: 18px;
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-twounits);
 }
@@ -955,7 +955,7 @@
 .bosscab-text85 {
   color: rgba(0, 0, 0, 0.75);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-family: Poppins;
   font-weight: 400;
   line-height: 25px;
@@ -1006,7 +1006,7 @@
   font-size: 24px;
   font-style: normal;
   margin-top: var(--dl-space-space-twounits);
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -1014,7 +1014,7 @@
   color: rgba(0, 0, 0, 0.5);
   font-size: 18px;
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-weight: 400;
   margin-bottom: var(--dl-space-space-twounits);
 }
@@ -1025,7 +1025,7 @@
 .bosscab-text93 {
   color: rgba(0, 0, 0, 0.75);
   font-style: normal;
-  text-align: justify;
+  text-align: left;
   font-family: Poppins;
   font-weight: 400;
   line-height: 25px;
@@ -1081,7 +1081,7 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text01 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-overview-section1 {
@@ -1107,18 +1107,18 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text19 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-text24 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-unit);
   }
   .bosscab-text29 {
-    text-align: justify;
+    text-align: left;
   }
   .bosscab-text34 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-challenge-section {
@@ -1144,19 +1144,19 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text42 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-unit);
   }
   .bosscab-text44 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-unit);
   }
   .bosscab-text45 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-text46 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-hero {
@@ -1186,16 +1186,16 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text51 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-text52 {
     margin-top: var(--dl-space-space-unit);
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text56 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-container11 {
@@ -1222,16 +1222,16 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text59 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-text60 {
     margin-top: var(--dl-space-space-unit);
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text64 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-hero1 {
@@ -1264,16 +1264,16 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text70 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-text71 {
     margin-top: var(--dl-space-space-unit);
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text73 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-competitive-analysis {
@@ -1300,16 +1300,16 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text75 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-text76 {
     margin-top: var(--dl-space-space-unit);
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text78 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-structure-flow-chart {
@@ -1339,16 +1339,16 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text82 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-text83 {
     margin-top: var(--dl-space-space-unit);
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text85 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-sketch1 {
@@ -1375,16 +1375,16 @@
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text90 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-text91 {
     margin-top: var(--dl-space-space-unit);
-    text-align: justify;
+    text-align: left;
     margin-bottom: var(--dl-space-space-twounits);
   }
   .bosscab-text93 {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 0;
   }
   .bosscab-usability-testing {

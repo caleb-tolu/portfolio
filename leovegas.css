@@ -199,7 +199,7 @@
   color: rgba(0, 0, 0, 0.75);
   font-size: 16px;
   margin-top: var(--dl-space-space-oneandhalfunits);
-  text-align: justify;
+  text-align: left;
   font-family: Inter;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -218,7 +218,7 @@
 .leovegas-text14 {
   color: rgba(0, 0, 0, 0.75);
   margin-top: var(--dl-space-space-oneandhalfunits);
-  text-align: justify;
+  text-align: left;
   font-family: Inter;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -255,7 +255,7 @@
 .leovegas-text28 {
   color: rgba(0, 0, 0, 0.75);
   margin-top: var(--dl-space-space-oneandhalfunits);
-  text-align: justify;
+  text-align: left;
   font-family: Inter;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -404,7 +404,7 @@
 .leovegas-text48 {
   color: rgba(0, 0, 0, 0.75);
   margin-top: var(--dl-space-space-oneandhalfunits);
-  text-align: justify;
+  text-align: left;
   font-family: Inter;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -468,7 +468,7 @@
   color: rgba(0, 0, 0, 0.75);
   margin-top: var(--dl-space-space-oneandhalfunits);
   min-height: var(--dl-size-size-xsmall);
-  text-align: justify;
+  text-align: left;
   font-family: Inter;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -511,7 +511,7 @@
 .leovegas-text65 {
   color: rgba(0, 0, 0, 0.75);
   margin-top: var(--dl-space-space-oneandhalfunits);
-  text-align: justify;
+  text-align: left;
   font-family: Inter;
   line-height: 25px;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -578,14 +578,14 @@
     text-align: center;
   }
   .leovegas-text07 {
-    text-align: justify;
+    text-align: left;
     padding-left: var(--dl-space-space-fourunits);
   }
   .leovegas-text13 {
     text-align: center;
   }
   .leovegas-text14 {
-    text-align: justify;
+    text-align: left;
     padding-left: var(--dl-space-space-fourunits);
   }
   .leovegas-signup-flow {
@@ -605,7 +605,7 @@
     text-align: center;
   }
   .leovegas-text28 {
-    text-align: justify;
+    text-align: left;
     padding-left: var(--dl-space-space-fourunits);
   }
   .leovegas-flow-chart {
@@ -681,7 +681,7 @@
     text-align: center;
   }
   .leovegas-text48 {
-    text-align: justify;
+    text-align: left;
     padding-left: var(--dl-space-space-fourunits);
   }
   .leovegas-information-to-perform-better-task {
@@ -713,7 +713,7 @@
     text-align: center;
   }
   .leovegas-text57 {
-    text-align: justify;
+    text-align: left;
     padding-left: var(--dl-space-space-fourunits);
   }
   .leovegas-k-p-is-to-track {
@@ -733,7 +733,7 @@
     text-align: center;
   }
   .leovegas-text65 {
-    text-align: justify;
+    text-align: left;
     padding-left: var(--dl-space-space-fourunits);
   }
   .leovegas-text67 {
